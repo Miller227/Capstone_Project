@@ -1,0 +1,193 @@
+1574310127275	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\nicol\\AppData\\Local\\Temp\\rust_mozprofileT0CFN6"
+1574310127620	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1574310127620	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1574310127620	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1574310127621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+WARN: compileToBinary(259): 
+C:\fakepath(337,18-133): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(343,62-116): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(360,75-84): warning X3556: integer divides may be much slower, try using uints if possible.
+C:\fakepath(363,50-59): warning X3556: integer modulus may be much slower, try using uints if possible.
+C:\fakepath(383,33-90): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(174,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+C:\fakepath(289,25-29): error X4576: Input array signature parameter  cannot be indexed dynamically.
+
+WARN: compileToBinary(259): 
+C:\fakepath(337,18-133): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(343,62-116): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(360,75-84): warning X3556: integer divides may be much slower, try using uints if possible.
+C:\fakepath(363,50-59): warning X3556: integer modulus may be much slower, try using uints if possible.
+C:\fakepath(383,33-90): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(174,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+C:\fakepath(289,25-29): error X4576: Input array signature parameter  cannot be indexed dynamically.
+
+WARN: compileToBinary(259): 
+C:\fakepath(360,75-84): warning X3556: integer divides may be much slower, try using uints if possible.
+C:\fakepath(363,50-59): warning X3556: integer modulus may be much slower, try using uints if possible.
+C:\fakepath(174,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+C:\fakepath(225,1): warning X4000: use of potentially uninitialized variable (f_distance_aa)
+C:\fakepath(262,1): warning X4000: use of potentially uninitialized variable (f_do_clip)
+
+[Child 12416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1572401533/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12416, Chrome_Chil1574310129672	Marionette	INFO	Listening on port 55980
+1574310129883	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.adsafeprotected.com/sca.17.4.95.js, line 32: Array.slice is deprecated; use Array.prototype.slice instead
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 5: unreachable code after return statement
+JavaScript warning: https://clarium.global.ssl.fastly.net/gpt/a/wrap.js?v2_1, line 5: unreachable code after return statement
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://tag.idsync.analytics.yahoo.com/sp-frame.js, line 2: SecurityError: The operation is insecure.
+JavaScript error: https://www.wrestlinginc.com/news/aew-news/, line 60: TypeError: document.getElementsByTagName(...)[0] is undefined
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://tag.idsync.analytics.yahoo.com/sp-frame.js, line 2: SecurityError: The operation is insecure.
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://tag.idsync.analytics.yahoo.com/sp-frame.js, line 2: SecurityError: The operation is insecure.
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://tag.idsync.analytics.yahoo.com/sp-frame.js, line 2: SecurityError: The operation is insecure.
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://tag.idsync.analytics.yahoo.com/sp-frame.js, line 2: SecurityError: The operation is insecure.
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://www.wrestlinginc.com/news/aew-news/, line 60: TypeError: document.getElementsByTagName(...)[0] is undefined
+JavaScript error: https://www.wrestlinginc.com/news/aew-news/, line 60: TypeError: document.getElementsByTagName(...)[0] is undefined
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f165dbdba0476d2&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 1: SecurityError: The operation is insecure.
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://tag.idsync.analytics.yahoo.com/sp-frame.js, line 2: SecurityError: The operation is insecure.
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://tag.idsync.analytics.yahoo.com/sp-frame.js, line 2: SecurityError: The operation is insecure.
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://tag.idsync.analytics.yahoo.com/sp-frame.js, line 2: SecurityError: The operation is insecure.
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://tag.idsync.analytics.yahoo.com/sp-frame.js, line 2: SecurityError: The operation is insecure.
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://tag.idsync.analytics.yahoo.com/sp-frame.js, line 2: SecurityError: The operation is insecure.
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://tag.idsync.analytics.yahoo.com/sp-frame.js, line 2: SecurityError: The operation is insecure.
+JavaScript error: https://vpaid.springserve.com/production/vpaid_599c0c71.js, line 5: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://tag.idsync.analytics.yahoo.com/sp-frame.js, line 2: SecurityError: The operation is insecure.
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://tag.idsync.analytics.yahoo.com/sp-frame.js, line 2: SecurityError: The operation is insecure.
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://tag.idsync.analytics.yahoo.com/sp-frame.js, line 2: SecurityError: The operation is insecure.
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://tag.idsync.analytics.yahoo.com/sp-frame.js, line 2: SecurityError: The operation is insecure.
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://tag.idsync.analytics.yahoo.com/sp-frame.js, line 2: SecurityError: The operation is insecure.
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://pixel.adsafeprotected.com/IASVideo.js?anId=9406&planId=3&campId=901987&pubId=152&chanId=www.wrestlinginc.com%2Fnews%2Faew-news%2F&placementId=1279262296&impId=1574313637167&adsafe_par&originalVast=https://vid.springserve.com/vast/381792?w=300&h=250&url=www.wrestlinginc.com%2Fnews%2Faew-news%2F&cb=1574313637167, line 92: TypeError: The expression cannot be converted to return the specified type.
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://tag.idsync.analytics.yahoo.com/sp-frame.js, line 2: SecurityError: The operation is insecure.
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
+JavaScript error: https://staticxx.facebook.com/connect/xd_arbiter.php?version=44#channel=f277eafac7383da&origin=https%3A%2F%2Fwww.wrestlinginc.com, line 47: SecurityError: Permission denied to access property Symbol.toPrimitive on cross-origin object
