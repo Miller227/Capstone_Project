@@ -10,7 +10,7 @@ public class Main {
 		String image;
 		ArrayList<Article> articles = new ArrayList();
 		
-		Scanner reader = new Scanner(new File("C:\\Users\\nicol\\Desktop\\Capstone\\WWE_Data.csv"));
+		Scanner reader = new Scanner(new File("C:\\Users\\nicol\\Desktop\\Capstone\\Data\\WWE_Data.csv"));
 		StringTokenizer row = new StringTokenizer("");
 		
 		reader.nextLine();
@@ -29,7 +29,14 @@ public class Main {
 			
 		}
 		
+		/**
 		for (Article x : articles)
-			System.out.println(x.getID() + ", " + x.getURL() + ", " + x.getTitle() + ", " + x.getImage());
+			//System.out.println(x.getURL());
+			//System.out.println(x.getID());
+			//System.out.println(x.getTitle());
+			//System.out.println(x.getImage());
+			//System.out.println(x.getID() + ", " + x.getURL() + ", " + x.getTitle() + ", " + x.getImage());
+			 *
+		**/
 	}
 }
