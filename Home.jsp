@@ -11,36 +11,40 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Home</title>
          <%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+            <link rel="stylesheet" href="style.css">
     </head>
     <body>
-       
+        <div>
         <h1>Sportz Maestro</h1>
+        <span>
         <form action="NavigationServlet" method="get"> 
-                   <input type="submit" value="wwe" name="action" />
-                   <input type="submit" value="aew" name="action" />
-                   <input type="submit" value="wt" name="action" />
+            <ul>
+                <li> <input type="submit" value="Home" name="action" /></li>
+                   <li><input type="submit" value="wwe" name="action" /></li>
+                   <li><input type="submit" value="aew" name="action" /></li>
+                   <li><input type="submit" value="wt" name="action" /></li>
+                  <!-- <li><input type="text" name="Search" value="" size="5" /></li> -->
+            </ul>
         </form>
-        
-         <form action="NavigationServlet" method="post"> 
-         <input type="text" name="Search" value="" size="5" />
-         </form>
-        
+            
+            
         <h1>Biggest Stories Around the Wrestling World</h1>
+          </span>
+            </div>
         
-        
-        
-          <img src= " ${wweList[0].img} "/> 
+        <div class="centric">
+          <img class="cohesive" src= " ${wweList[0].img} "/> 
                 <br>
                 <a href="${wweList[0].url}">${wweList[0].title}</a>     
                 <br>    
-          <img src= " ${aewList[0].img} "/> 
+          <img class="cohesive" src= " ${aewList[0].img} "/> 
                 <br>
                 <a href="${aewList[0].url}">${aewList[0].title}</a>     
                 <br>    
-          <img src= " ${wtList[0].img} "/> 
+          <img class="cohesive" src= " ${wtList[0].img} "/> 
                 <br>
                 <a href="${wtList[0].url}">${wtList[0].title}</a>     
                 <br>    
-  
+        </div>
     </body>
 </html>

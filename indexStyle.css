@@ -1,0 +1,17 @@
+body{
+  background-color: blue;
+  color: white;
+  text-align: center;
+}
+input[type=submit]{
+    padding:5px 15px;
+    border:0 none;
+    cursor:pointer;
+    background-color: red;
+    color: white;
+    display: inline-block;
+    font-weight: bold;
+}
+input[type=submit]:hover {
+  background-color: black;
+}

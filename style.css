@@ -1,0 +1,64 @@
+body{
+  background-color: blue;
+  color: white;
+}
+.centric{  
+  display: block;
+  margin-left: 700px;
+  margin-right: auto;
+  width: 50%;
+   background-color: blue;
+}
+img.cohesive{
+display: block;
+  width: 50%;
+  height: auto;
+}
+div{
+  background-color: red;
+  overflow: auto;
+}
+div h1{
+  margin: auto;
+}
+span{
+  text-align: right;
+}
+a{
+  color: white;
+}
+ul{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  align-items: center;
+  display: inline-block;
+}
+li{
+    display:inline;
+    float: left;
+}
+li:hover{
+  background-color: white;
+  color: black;
+}
+input[type=text]{
+  width: 15%;
+  float: right;
+}
+input[type=submit]{
+    padding:5px 15px;
+    border:0 none;
+    cursor:pointer;
+    float: left;
+    background-color: red;
+    color: white;
+    display: inline-block;
+    font-weight: bold;
+}
+input[type=submit]:hover {
+  background-color: blue;
+  float: left;
+
+}
