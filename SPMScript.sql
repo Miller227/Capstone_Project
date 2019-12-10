@@ -1,0 +1,35 @@
+DROP DATABASE IF EXISTS wrestling;
+
+CREATE DATABASE wrestling;
+
+USE wrestling;
+
+CREATE TABLE  wwe (
+ ArticleID INT NOT NULL,
+ title VARCHAR(500),
+ img VARCHAR(500),
+ WWEurl VARCHAR(500),
+
+PRIMARY KEY(ArticleID)
+
+);
+
+CREATE TABLE  aew (
+ ArticleID INT NOT NULL,
+ title VARCHAR(500),
+ img VARCHAR(500),
+ AEWurl VARCHAR(500),
+
+PRIMARY KEY(ArticleID)
+
+);
+
+CREATE TABLE  wt (
+ ArticleID INT NOT NULL,
+ title VARCHAR(500),
+ img VARCHAR(500),
+ WTurl VARCHAR(500),
+
+PRIMARY KEY(ArticleID)
+
+);
